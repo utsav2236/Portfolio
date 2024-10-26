@@ -1,6 +1,7 @@
 import React from 'react'
 import img from '../assets/Photo1.png'
 
+
 const Hero = () => {
   return (
     <div className='bg-black text-white text-center py-16' id='Home'>
