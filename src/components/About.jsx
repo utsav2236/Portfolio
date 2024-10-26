@@ -28,7 +28,7 @@ const About = () => {
               <div className='flex items-center'>
                 <label htmlFor="React" className='w-2/12'>React</label>
                 <div className='grow bg-gray-800 rounded-full h-2.5'>
-                  <div className='bg-gradient-to-r from-fuchsia-500 to-indigo-600 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-6/12'>
+                  <div className='bg-gradient-to-r from-fuchsia-500 to-indigo-600 h-2.5 rounded-full transform transition-transform duration-300 hover:scale-105 w-6/12'> 
                   </div>
                 </div>
               </div>
