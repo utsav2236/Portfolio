@@ -1,6 +1,7 @@
 import React from 'react'
 import portfolio from '../assets/Portfolio.png'
 import Blog from '../assets/Blog_img.png'
+import calc from '../assets/calc.png'
 
 const arr = [
   {
@@ -19,9 +20,9 @@ const arr = [
   },
   {
     "id": 3,
-    "name": "Social Media App",
-    "technology": "MERN Stack",
-    "imageName": Blog,
+    "name": "Calculator",
+    "technology": "HTML , CSS & JS",
+    "imageName": calc,
     "githubLink": "https://github.com/username/social-media-app"
   }
 ]

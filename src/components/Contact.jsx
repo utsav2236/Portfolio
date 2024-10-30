@@ -11,7 +11,7 @@ const Contact = () => {
         <div className=' flex flex-col md:flex-row items-center md:space-x-12'>
           <div className='flex-1'>
             <h3 className='bg-gradient-to-r from-fuchsia-500 to-indigo-600 my-2 text-3xl fomt-bold text-transparent bg-clip-text font-bold'>Let's Talk</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, officia?</p>
+            <p> I am create websites and applications using web languages such as HTML, CSS, and JavaScript that allow users to access and interact with the site or app.</p>
             <div className='mb-4 mt-4'>
               <IoMdMail className='inline pr-2 size-7 align-top' />
               <a href="milato:prajapatiutsav2236@gmail.com" className='hover:underline hover:text-blue-700'>prajapatiutsav2236@gmail.com</a>
